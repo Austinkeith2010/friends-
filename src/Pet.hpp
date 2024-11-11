@@ -14,7 +14,6 @@ enum PetType {
         Tough,
 	Insane,
         Cruel,
-	// Demon,
 	EasyDemon,
 	MediumDemon,
 	HardDemon,
