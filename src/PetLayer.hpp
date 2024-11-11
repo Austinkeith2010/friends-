@@ -53,9 +53,12 @@ public:
 		this->createPet(PetType::NA);
 		this->createPet(PetType::Easy);
 		this->createPet(PetType::Normal);
+		this->createPet(PetType::Casual);
 		this->createPet(PetType::Hard);
 		this->createPet(PetType::Harder);
+		this->createPet(PetType::Tough);
 		this->createPet(PetType::Insane);
+		this->createPet(PetType::Cruel);
 		this->createPet(PetType::EasyDemon);
 		this->createPet(PetType::MediumDemon);
 		this->createPet(PetType::HardDemon);
